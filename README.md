@@ -61,7 +61,7 @@ Display all the Transformed images.
 
 ## Program:
 ### Developed By: S.Sumyuktha Rani
-### Register Number: 212220230042
+### Register Number: 212220230050
 
 ### i)Image Translation
 ```
